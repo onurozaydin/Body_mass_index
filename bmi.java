@@ -18,7 +18,7 @@ public class Body_mass_index {
 		height = height / 100.0;
 		
 		double sonuc = (kilo / (height * height));
-        System.out.print("Vücut kitle endeksiniz : "+ sonuc);
+                System.out.print("Vücut kitle endeksiniz : "+ sonuc);
 				
 
 	}
